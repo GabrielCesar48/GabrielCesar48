@@ -1,4 +1,5 @@
-## Oii, Eu sou o Gabriel Cesar
+## 👋 Hi, I’m @GabrielCesar48
+- 🌱 I’m currently learning on Certified Tech Developer program.
 
 <div>
   <a href="https://github.com/GabrielCesar48">
