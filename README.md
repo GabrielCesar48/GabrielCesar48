@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @GabrielCesar48
+## 👋 Hi, I’m Gabriel Cesar
 - 🌱 I’m currently learning on Certified Tech Developer program.
 
 <div>
