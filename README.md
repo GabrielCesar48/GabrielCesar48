@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Gabriel Cesar
-- 🌱 I’m currently learning on Certified Tech Developer program.;
+- 🌱 I’m currently learning on Certified Tech Developer program.
 
 <div>
   <a href="https://github.com/GabrielCesar48">
