@@ -1,5 +1,5 @@
-## 👋 Hi, I’m Gabriel Cesar
-- 🌱 I’m currently learning on Certified Tech Developer program.
+## 👋 Olá, Eu sou o Gabriel 
+- 🌱 Atualmente estou estudando HTML, CSS e Javascript no Certified Tech Developer da Digital House.
 
 <div>
   <a href="https://github.com/GabrielCesar48">
