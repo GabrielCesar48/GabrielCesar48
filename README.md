@@ -1,5 +1,5 @@
 ## 👋 Olá, Eu sou o Gabriel 
-- 🌱 Atualmente estou estudando HTML, CSS e Javascript no Certified Tech Developer da Digital House.
+- 🌱 Analista de B.I. e desenvolvedor front-end, com experiência na criação de dashboards e painéis interativos para ajudar na tomada de decisões estratégicas. Atualmente, estou expandindo minhas habilidades para o desenvolvimento back-end e inteligência artificial, com foco em Python. Sempre buscando novos desafios e oportunidades para aprender e aplicar soluções inovadoras.
 
 <div>
   <a href="https://github.com/GabrielCesar48">
