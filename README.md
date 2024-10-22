@@ -1,11 +1,13 @@
 ## 👋 Olá, Eu sou o Gabriel 
 - 🌱 Analista de B.I. e desenvolvedor front-end, com experiência na criação de dashboards e painéis interativos para ajudar na tomada de decisões estratégicas. Atualmente, estou expandindo minhas habilidades para o desenvolvimento back-end e inteligência artificial, com foco em Python. Sempre buscando novos desafios e oportunidades para aprender e aplicar soluções inovadoras.
 
-<div>
+<div style="text-align: center;">
   <a href="https://github.com/GabrielCesar48">
- <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GabrielCesar48&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCesar48&layout=compact&langs_count=7&theme=vue-dark"/>
+    <!-- <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GabrielCesar48&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/> -->
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCesar48&layout=compact&langs_count=7&theme=vue-dark"/>
+  </a>
 </div>
+
   
 ##
   
