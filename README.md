@@ -51,9 +51,15 @@
 
 ## 📌 Projetos em Destaque
 
-- 🔗 [Sistemas Web com Django - Gestão Interna e Integrações](https://github.com/GabrielCesar48)  
-- 🔗 [Automação de Dados com Python e BI](https://github.com/GabrielCesar48)  
-*(Mais projetos serão disponibilizados em breve.)*
+- 🔗 [**Diário de Leitura**](https://github.com/GabrielCesar48/Diario-de-Leitura)  
+  Projeto social para incentivar a leitura entre crianças. Permite registrar livros lidos, páginas diárias, calcular o tempo de leitura e gerar estatísticas. Inclui uma IA que sugere livros baseados no histórico de leitura, notas, estilo e autores preferidos.
+
+- 🔗 [**DolceScale - Escala da Máquina de Café**](https://github.com/GabrielCesar48/dolcescale)  
+  Aplicação divertida para o ambiente corporativo. Gera automaticamente a escala de limpeza da máquina de café do escritório, evitando confusões e esquecimentos.
+
+- 🔗 [**ScoutPro - Avaliação de Jogadores de Futsal**](https://github.com/GabrielCesar48/ScoutPro)  
+  Sistema completo de análise de desempenho no futsal. Possui painéis individuais para jogadores acompanharem sua evolução, painel da comissão técnica para avaliações, comentários, gestão de pontuação e calendário de jogos.
+
 
 ##
 
