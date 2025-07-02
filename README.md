@@ -71,7 +71,7 @@
 ##
 
 <div align="center">
-  <h3><b>📍 Snake Animation - Visitantes no Perfil</b></h3>
+  <h3><b>📍 Visitantes no Perfil</b></h3>
 </div>
 
 <p align="center">
