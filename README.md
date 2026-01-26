@@ -1,4 +1,4 @@
-## 👋 Fala, eu sou o Gabriel
+## 👋 Oi, eu sou o Gabriel
 
 💻 **Desenvolvedor Full Stack (Python | Django | JavaScript)** e **Desenvolvedor de BI**, com experiência prática em aplicações web, automação de processos e soluções de dados.
 
@@ -9,19 +9,10 @@
 💡 Sou movido por desafios e por transformar ideias em aplicações robustas, escaláveis e orientadas a dados.
 
 
-
-<div align="center">
-  <a href="https://github.com/GabrielCesar48">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=GabrielCesar48&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCesar48&layout=compact&langs_count=7&theme=vue-dark"/>
-  </a>
-</div>
-
 ##
 
 <div align="center">
  <a href="https://instagram.com/gabr_ce" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://www.twitch.tv/gabriel484" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
  <a href="mailto:gabrielcesar48@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
  <a href="https://www.linkedin.com/in/gabrielcesar48/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
